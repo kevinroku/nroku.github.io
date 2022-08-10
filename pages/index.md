@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: Automated Crypro Trading
+title: Automated Crypto Trading
 ---
