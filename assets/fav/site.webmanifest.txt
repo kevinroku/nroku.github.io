@@ -1,0 +1,9 @@
+{
+  "icons": [
+    { "src": "/assets/fav/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/assets/fav/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+    "theme_color": "#2f455c",
+    "background_color": "#2f455c",
+    "display": "standalone"
+}
