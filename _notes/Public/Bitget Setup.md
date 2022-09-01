@@ -19,11 +19,11 @@ Create an account on Bitget with our [referral link](https://www.bitget.com/de/r
 {:#deposit}
 ###  Deposit cryptocurrency to your wallet
 ---
-Deposit at least ```100 USDT``` and transfer it to your Futures ```USDT-M wallet```. It is necessary to cover the minimum amount of the exchange.
+Deposit at least ```100 USDT``` and transfer it to your Futures ```USDT-M``` wallet. It is necessary to cover the minimum amount of the exchange.
 ![](/assets/img/1-how-to.png)
 
 {:#follow}
 ###  Follow our signals
 ---
-Follow the ```{{site.copyright.msg}}``` signals in the copy trade section.
+Follow the ```{{site.heading}}``` signals in the copy trade section.
 ![](/assets/img/1-how-to.png)
