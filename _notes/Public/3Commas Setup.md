@@ -10,8 +10,14 @@ Please check first if there are free slots [here](https://www.bitget.com/en/copy
 * TOC
 {:toc}
 
-{:#bitgetaccount}
-### Create a Bitget account 
+{:#ftxaccount}
+### Create a FTX account 
+---
+Create an account on Bitget with our [referral link](https://www.bitget.com/en/copytrading/).
+![](/assets/img/1-how-to.png)
+
+{:#kyc}
+### KYC 
 ---
 Create an account on Bitget with our [referral link](https://www.bitget.com/en/copytrading/).
 ![](/assets/img/1-how-to.png)
@@ -19,11 +25,41 @@ Create an account on Bitget with our [referral link](https://www.bitget.com/en/c
 {:#deposit}
 ###  Deposit cryptocurrency to your wallet
 ---
-Deposit at least ```100 USDT``` and transfer it to your Futures ```USDT-M wallet```. It is necessary to cover the minimum amount of the exchange.
+Desposit ```USD```. A minimum amount is not required.
 ![](/assets/img/1-how-to.png)
 
-{:#follow}
-###  Follow our signals
+{:#createapi}
+### Create API
+---
+Follow the ```FinSwap``` signals in the copy trade section.
+![](/assets/img/1-how-to.png)
+
+{:#3commasaccount}
+### Create a 3Commas account 
+---
+Create an account on Bitget with our [referral link](https://www.bitget.com/en/copytrading/).
+![](/assets/img/1-how-to.png)
+
+{:#Subscribe3commas}
+###  Subscribe a plan on 3commas
+---
+Follow the ```FinSwap``` signals in the copy trade section.
+![](/assets/img/1-how-to.png)
+
+{:#Subscribefinswap}
+###  Subscribe the Finswap signals
+---
+Follow the ```FinSwap``` signals in the copy trade section.
+![](/assets/img/1-how-to.png)
+
+{:#connectapi}
+### Connect the api 
+---
+Follow the ```FinSwap``` signals in the copy trade section.
+![](/assets/img/1-how-to.png)
+
+{:#createbot}
+### Create bots
 ---
 Follow the ```FinSwap``` signals in the copy trade section.
 ![](/assets/img/1-how-to.png)
