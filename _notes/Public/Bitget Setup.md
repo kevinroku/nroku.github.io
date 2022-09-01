@@ -11,16 +11,16 @@ Please check first if there are free slots here, if not we recommend to use 3com
 {:toc}
 
 {:#bitgetaccount}
-### Step 1: Bitget account 
+### Bitget account 
 ---
 Create an account on Bitget with our referral link.
 
 {:#deposit}
-###  Step 2: Deposit 
+###  Deposit 
 ---
 Deposit at least 100 USDT and transfer it to your Futures USDT-M wallet. It is necessary to cover the minimum amount of the exchange.
 
 {:#follow}
-###  Step 3: Follow 
+###  Follow 
 ---
-Follow the finswap signals in the copy trade section.
+Follow the Finswap signals in the copy trade section.
