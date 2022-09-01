@@ -18,9 +18,9 @@ Create an account on Bitget with our referral link.
 {:#deposit}
 ###  Deposit 
 ---
-Deposit at least 100 USDT and transfer it to your Futures USDT-M wallet. It is necessary to cover the minimum amount of the exchange.
+Deposit at least ```100 USDT``` and transfer it to your Futures ```USDT-M wallet```. It is necessary to cover the minimum amount of the exchange.
 
 {:#follow}
 ###  Follow 
 ---
-Follow the Finswap signals in the copy trade section.
+Follow the ```FinSwap``` signals in the copy trade section.
