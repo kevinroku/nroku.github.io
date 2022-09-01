@@ -25,6 +25,5 @@ Deposit at least ```100 USDT``` and transfer it to your Futures ```USDT-M wallet
 {:#follow}
 ###  Follow our signals
 ---
-Follow the ```FinSwap``` signals in the copy trade section.
+Follow the ```{{site.copyright.msg}}``` signals in the copy trade section.
 ![](/assets/img/1-how-to.png)
-{{site.copyright.msg}}
