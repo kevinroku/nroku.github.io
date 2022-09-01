@@ -11,19 +11,19 @@ Please check first if there are free slots [here](https://www.bitget.com/en/copy
 {:toc}
 
 {:#bitgetaccount}
-### Bitget account 
+### Create a Bitget account 
 ---
-Create an account on Bitget with our referral link.
-![Alt Text](/assets/img/1-how-to.png "Title Here")
+Create an account on Bitget with our [referral link](https://www.bitget.com/en/copytrading/).
+![](/assets/img/1-how-to.png)
 
 {:#deposit}
 ###  Deposit 
 ---
 Deposit at least ```100 USDT``` and transfer it to your Futures ```USDT-M wallet```. It is necessary to cover the minimum amount of the exchange.
-![Alt Text](/assets/img/1-how-to.png "Title Here")
+![](/assets/img/1-how-to.png)
 
 {:#follow}
 ###  Follow 
 ---
 Follow the ```FinSwap``` signals in the copy trade section.
-![Alt Text](/assets/img/1-how-to.png "Title Here")
+![](/assets/img/1-how-to.png)
