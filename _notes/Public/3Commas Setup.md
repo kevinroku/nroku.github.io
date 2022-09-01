@@ -40,13 +40,13 @@ Follow the ```FinSwap``` signals in the copy trade section.
 Create an account on Bitget with our [referral link](https://www.bitget.com/en/copytrading/).
 ![](/assets/img/1-how-to.png)
 
-{:#Subscribe3commas}
+{:#subscribe3commas}
 ###  Subscribe a plan on 3commas
 ---
 Follow the ```FinSwap``` signals in the copy trade section.
 ![](/assets/img/1-how-to.png)
 
-{:#Subscribefinswap}
+{:#subscribefinswap}
 ###  Subscribe the Finswap signals
 ---
 Follow the ```FinSwap``` signals in the copy trade section.
