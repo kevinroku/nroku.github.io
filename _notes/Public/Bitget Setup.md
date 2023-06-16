@@ -2,7 +2,6 @@
 title : Bitget Setup
 feed: show
 date : 01-09-2022
-tag: Knowledge-building
 ---
  
 The Bitget Exchange is the easiest way to use the bot, but it only offers a limited number of users. 
