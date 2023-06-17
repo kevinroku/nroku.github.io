@@ -11,8 +11,8 @@
 
 
     <linearGradient spreadMethod="pad" id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-	  <stop offset="0%" style="stop-color:#4A4090;" />
-	  <stop offset="100%" style="stop-color:#372E6C;" />
+	  <stop offset="0%" style="stop-color:#5621b3;" />
+	  <stop offset="100%" style="stop-color:#6511ae;" />
     </linearGradient>
   </defs>
    <g fill="url(#gradient)">
