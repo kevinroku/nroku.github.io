@@ -27,7 +27,7 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: The Trading Company # Change this 
+heading: kevinroku # Change this 
 content: Obsidian ready Jekyll Theme
 copyright:  
   year: © 2022 - 2023 
